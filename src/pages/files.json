@@ -1,0 +1,11 @@
+{
+  "photos": [
+    { "key": 1, "alt": "NO DATA", "height": 250, "width": 250, "src": "amman1" },
+    { "key": 2, "alt": "NO DATA", "height": 250, "width": 250, "src": "amman2" },
+    { "key": 3, "alt": "NO DATA", "height": 250, "width": 250, "src": "amman3" },
+    { "key": 4, "alt": "NO DATA", "height": 250, "width": 250, "src": "amman4" },
+    { "key": 5, "alt": "NO DATA", "height": 250, "width": 250, "src": "amman5" }
+  ],
+
+  "videos": ["dwh92PHtHk8", "gCXTjlAZvtQ", "JpDdD0VMjtA"]
+}
